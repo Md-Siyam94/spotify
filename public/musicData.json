@@ -1,0 +1,59 @@
+[
+    {
+      "title": "Starboy",
+      "artistName": "The Weeknd",
+      "duration": "4:16",
+      "thumbnail": "https://i.ibb.co.com/dJ6JDpGL/download.jpg",
+      "musicUrl": "https://example.com/music/starboy.mp3"
+    },
+    {
+      "title": "Demons",
+      "artistName": "Imagine Dragons",
+      "duration": "5:24",
+      "thumbnail": "https://i.ibb.co.com/DDmhwFhp/download.jpg",
+      "musicUrl": "https://example.com/music/demons.mp3"
+    },
+    {
+      "title": "Mouth of the River",
+      "artistName": "Imagine Dragons",
+      "duration": "6:23",
+      "thumbnail": "https://i.ibb.co.com/C5YwydQ7/download.jpg",
+      "musicUrl": "https://example.com/music/mouth_of_the_river.mp3"
+    },
+    {
+      "title": "Ghost Stories",
+      "artistName": "Coldplay",
+      "duration": "3:10",
+      "thumbnail": "https://i.ibb.co.com/9HLbnjkD/download.jpg",
+      "musicUrl": "https://example.com/music/ghost_stories.mp3"
+    },
+    {
+      "title": "Sparks",
+      "artistName": "Coldplay",
+      "duration": "4:23",
+      "thumbnail": "https://i.ibb.co.com/bgrwb76z/download.jpg",
+      "musicUrl": "https://example.com/music/sparks.mp3"
+    },
+    {
+      "title": "Viva La Vida",
+      "artistName": "Coldplay",
+      "duration": "5:32",
+      "thumbnail": "https://i.ibb.co.com/Q35fJBQs/download.jpg",
+      "musicUrl": "https://example.com/music/viva_la_vida.mp3"
+    },
+    {
+      "title": "Hymn for the Weekend",
+      "artistName": "Coldplay",
+      "duration": "2:23",
+      "thumbnail": "https://i.ibb.co.com/Z6vvKrbc/download.jpgg",
+      "musicUrl": "https://example.com/music/hymn_for_the_weekend.mp3"
+    },
+    {
+      "title": "Pain",
+      "artistName": "Ryan Jones",
+      "duration": "3:12",
+      "thumbnail": "https://i.ibb.co.com/dJsrdDND/images.jpg",
+      "musicUrl": "https://example.com/music/pain.mp3"
+    }
+  ]
+  
