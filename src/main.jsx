@@ -6,12 +6,22 @@ import {
   createBrowserRouter,
   RouterProvider,
 } from "react-router-dom";
+import SelectedSong from './components/SelectedSong.jsx';
 
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <App></App>,
+    children: [
+      {
+        path: '/:id',
+        element: <SelectedSong></SelectedSong>,
+        loader: ()=> fetch(`/musicData.json`)
+        
+        
+      }
+    ]
   },
 ]);
 
