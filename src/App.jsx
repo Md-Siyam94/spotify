@@ -11,8 +11,8 @@ function App() {
           <h2 className="text-2xl font-semibold">Spotify</h2>
         </div>
         <div className='flex flex-col justify-start items-start'>
-          <Link><button className='btn'>For You</button></Link>
-          <Link><button className=''>Top Tracks</button></Link>
+          <Link><button className=''>For You</button></Link>
+          <Link><button className='my'>Top Tracks</button></Link>
           <Link><button>Favourites</button></Link>
           <Link><button>Recently Played</button></Link>
         </div>
@@ -20,7 +20,7 @@ function App() {
       <div className=" col-span-2 border">
         <SongList></SongList>
       </div>
-      <div className=" col-span-3 border">
+      <div className="grid justify-center min-h-screen my-auto col-span-3 border">
         <Outlet></Outlet>
       </div>
     </div>
